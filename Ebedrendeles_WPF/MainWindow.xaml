@@ -1,0 +1,39 @@
+﻿<Window x:Class="Ebedrendeles_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ebedrendeles_WPF"
+        mc:Ignorable="d"
+        Title="Ebédrendelés" Height="600" Width="1000">
+    <Window.Background>
+        <ImageBrush ImageSource="Image/background.jpg"></ImageBrush>
+    </Window.Background>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Menu x:Name="menu" Grid.Row="0" MinWidth="250">
+            <MenuItem Header="_Étlap" >
+                <MenuItem x:Name="miAlaC" Header="a'la carte" Click="miClick"/>
+                <MenuItem x:Name="miMenu" Header="Menük" Click="miClick"/>
+            </MenuItem>
+            <MenuItem x:Name="miProfile" Header="_Profil">
+                <MenuItem x:Name="miLogin" Header="Belépés" Click="miClick"/>
+                <MenuItem x:Name="miRegistration" Header="Regisztráció" Click="miClick"/>
+                <MenuItem x:Name="miBasket" Header="Kosár" Visibility="Collapsed" Click="miClick"/>
+                <MenuItem x:Name="miOrders" Header="Rendelések" Visibility="Collapsed" Click="miClick"/>
+                <MenuItem x:Name="miOptions" Header="Beállítások" Visibility="Collapsed" Click="miClick"/>
+                <MenuItem x:Name="miLogout" Header="Kijelentkezés" Visibility="Collapsed" Click="miClick"/>
+            </MenuItem>
+            <MenuItem x:Name="miAdmin" Header="_Admin" Visibility="Hidden">
+                <MenuItem x:Name="miStatistic" Header="Statisztika" Click="miClick"/>
+                <MenuItem x:Name="miUsers" Header="Felhasználók" Click="miClick"/>
+                <MenuItem x:Name="miMenuFood" Header="Menük/ételek szerkesztése" Click="miClick"/>
+            </MenuItem>
+        </Menu>
+        <ContentControl x:Name="ccWindow" TabIndex="1" Content="{Binding}" Grid.Row="1"  HorizontalAlignment="Stretch" VerticalAlignment="Stretch" />
+    </Grid>
+
+</Window>

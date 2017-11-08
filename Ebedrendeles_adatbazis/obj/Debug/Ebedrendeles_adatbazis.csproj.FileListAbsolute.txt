@@ -1,0 +1,41 @@
+C:\Users\Attila\Desktop\prj\Ebedrendeles\Ebedrendeles_adatbazis\bin\Debug\Ebedrendeles_adatbazis.dll.config
+C:\Users\Attila\Desktop\prj\Ebedrendeles\Ebedrendeles_adatbazis\bin\Debug\Ebedrendeles_adatbazis.dll
+C:\Users\Attila\Desktop\prj\Ebedrendeles\Ebedrendeles_adatbazis\bin\Debug\Ebedrendeles_adatbazis.pdb
+C:\Users\Attila\Desktop\prj\Ebedrendeles\Ebedrendeles_adatbazis\bin\Debug\EntityFramework.dll
+C:\Users\Attila\Desktop\prj\Ebedrendeles\Ebedrendeles_adatbazis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Attila\Desktop\prj\Ebedrendeles\Ebedrendeles_adatbazis\bin\Debug\EntityFramework.xml
+C:\Users\Attila\Desktop\prj\Ebedrendeles\Ebedrendeles_adatbazis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Attila\Desktop\prj\Ebedrendeles\Ebedrendeles_adatbazis\obj\Debug\Ebedrendeles_adatbazis.csprojResolveAssemblyReference.cache
+C:\Users\Attila\Desktop\prj\Ebedrendeles\Ebedrendeles_adatbazis\obj\Debug\Ebedrendeles_adatbazis.dll
+C:\Users\Attila\Desktop\prj\Ebedrendeles\Ebedrendeles_adatbazis\obj\Debug\Ebedrendeles_adatbazis.pdb
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_adatbazis\bin\Debug\Ebedrendeles_adatbazis.dll.config
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_adatbazis\bin\Debug\Ebedrendeles_adatbazis.dll
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_adatbazis\bin\Debug\Ebedrendeles_adatbazis.pdb
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_adatbazis\bin\Debug\EntityFramework.dll
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_adatbazis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_adatbazis\bin\Debug\EntityFramework.xml
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_adatbazis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_adatbazis\obj\Debug\Ebedrendeles_adatbazis.csprojResolveAssemblyReference.cache
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_adatbazis\obj\Debug\Ebedrendeles_adatbazis.dll
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_adatbazis\obj\Debug\Ebedrendeles_adatbazis.pdb
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_adatbazis\bin\Debug\Ebedrendeles_adatbazis.dll.config
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_adatbazis\bin\Debug\Ebedrendeles_adatbazis.dll
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_adatbazis\bin\Debug\Ebedrendeles_adatbazis.pdb
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_adatbazis\bin\Debug\EntityFramework.dll
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_adatbazis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_adatbazis\bin\Debug\EntityFramework.xml
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_adatbazis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_adatbazis\obj\Debug\Ebedrendeles_adatbazis.csprojResolveAssemblyReference.cache
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_adatbazis\obj\Debug\Ebedrendeles_adatbazis.dll
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_adatbazis\obj\Debug\Ebedrendeles_adatbazis.pdb
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_adatbazis\bin\Debug\Ebedrendeles_adatbazis.dll.config
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_adatbazis\bin\Debug\Ebedrendeles_adatbazis.dll
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_adatbazis\bin\Debug\Ebedrendeles_adatbazis.pdb
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_adatbazis\bin\Debug\EntityFramework.dll
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_adatbazis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_adatbazis\bin\Debug\EntityFramework.xml
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_adatbazis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_adatbazis\obj\Debug\Ebedrendeles_adatbazis.csprojResolveAssemblyReference.cache
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_adatbazis\obj\Debug\Ebedrendeles_adatbazis.csproj.CoreCompileInputs.cache
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_adatbazis\obj\Debug\Ebedrendeles_adatbazis.dll
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_adatbazis\obj\Debug\Ebedrendeles_adatbazis.pdb

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="3b45cc10fb4d4b93ab8441c2e12bb72d" Name="Diagram1" ZoomLevel="78" >
+        <EntityTypeShape EntityType="database.enKosar" Width="1.5" PointX="2.875" PointY="4.5" />
+        <EntityTypeShape EntityType="database.enAlacarte" Width="1.5" PointX="5.25" PointY="2.875" />
+        <EntityTypeShape EntityType="database.enEtelek" Width="1.5" PointX="7.875" PointY="2.875" />
+        <EntityTypeShape EntityType="database.enMenu" Width="1.5" PointX="5.125" PointY="5.875" />
+        <EntityTypeShape EntityType="database.enNetelek" Width="1.5" PointX="8" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="database.enFelhasznalo" Width="1.5" PointX="0.625" PointY="4.5" />
+        <AssociationConnector Association="database.enRendelesenHetimenu" />
+        <AssociationConnector Association="database.enRendelesenAlacarte" />
+        <AssociationConnector Association="database.enRendelesenFelhasznalo" />
+        <AssociationConnector Association="database.enAlacarteenEtelek" />
+        <AssociationConnector Association="database.enNetelekenHrendeles" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

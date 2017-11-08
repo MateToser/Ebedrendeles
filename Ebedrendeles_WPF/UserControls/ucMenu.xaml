@@ -1,0 +1,40 @@
+﻿<UserControl x:Class="Ebedrendeles_WPF.UserControls.ucMenu"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Ebedrendeles_WPF.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="750">
+    <ScrollViewer>
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <Label Content="Menük" HorizontalAlignment="Center" FontSize="24" Visibility="Visible"/>
+            <StackPanel Orientation="Horizontal">
+                
+                <DataGrid x:Name="dgMenus" ItemsSource="{Binding enNetelek}" AutoGenerateColumns="False" SelectionMode="Single" SelectionUnit="FullRow"  HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10" SelectedItem="{Binding SelectedMenu, Mode=OneWay}" Visibility="Visible" CanUserAddRows="False" MouseDown="dgMenus_MouseDown" SelectionChanged="dgMenus_SelectionChanged">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn x:Name="menuId" Header="Id" IsReadOnly="True" Visibility="Collapsed" Binding="{Binding napietelekID}"/>
+                        <DataGridTextColumn Header="Dátum" Width="75" IsReadOnly="True" Binding="{Binding datum}"/>
+                            <DataGridTextColumn Header="Leves" Width="100" IsReadOnly="True" Binding="{Binding leves}"/>
+                            <DataGridTextColumn Header="Főétel1" Width="100" IsReadOnly="True" Binding="{Binding foetel1}"/>
+                            <DataGridTextColumn Header="Főétel2" Width="100" IsReadOnly="True" Binding="{Binding foetel2}"/>
+                            <DataGridTextColumn Header="Vega" Width="100" IsReadOnly="True" Binding="{Binding foetelvega}"/>
+                            <DataGridTextColumn Header="Desszert" Width="100" IsReadOnly="True" Binding="{Binding desszert}"/>
+                            <!-- <DataGridTextColumn Header="Ár (Ft)" Width="50" IsReadOnly="True" Binding="{Binding ar}"/> -->
+                    </DataGrid.Columns>
+                </DataGrid>
+            
+                <StackPanel x:Name="spSave"  Orientation="Vertical" Visibility="Collapsed">
+                    <RadioButton x:Name="rbFirst" Content="0"/>
+                    <RadioButton x:Name="rbSecond" Content="0"/>
+                    <RadioButton x:Name="rbThird" Content="0"/>
+                    <Button x:Name="btSave" Content="Kosárba" Width="50" Click="btSave_Click"/>
+                </StackPanel>
+            </StackPanel>
+            <!--<Button x:Name="btBasket" Content="Kosárba" HorizontalAlignment="Center" FontSize="18"/>-->
+        </StackPanel>
+
+    </Grid>
+        </ScrollViewer>
+</UserControl>

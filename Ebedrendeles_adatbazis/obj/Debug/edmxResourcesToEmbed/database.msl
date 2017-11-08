@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="databaseStoreContainer" CdmEntityContainer="cnAdatbazis">
+    <EntitySetMapping Name="enKosarSet">
+      <EntityTypeMapping TypeName="IsTypeOf(database.enKosar)">
+        <MappingFragment StoreEntitySet="enKosarSet">
+          <ScalarProperty Name="rendelesID" ColumnName="rendelesID" />
+          <ScalarProperty Name="szamla" ColumnName="szamla" />
+          <ScalarProperty Name="rendelesido" ColumnName="rendelesido" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="enAlacarteSet">
+      <EntityTypeMapping TypeName="IsTypeOf(database.enAlacarte)">
+        <MappingFragment StoreEntitySet="enAlacarteSet">
+          <ScalarProperty Name="alacarteID" ColumnName="alacarteID" />
+          <ScalarProperty Name="datum" ColumnName="datum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="enEtelekSet">
+      <EntityTypeMapping TypeName="IsTypeOf(database.enEtelek)">
+        <MappingFragment StoreEntitySet="enEtelekSet">
+          <ScalarProperty Name="etelekID" ColumnName="etelekID" />
+          <ScalarProperty Name="kategoria" ColumnName="kategoria" />
+          <ScalarProperty Name="nev" ColumnName="nev" />
+          <ScalarProperty Name="ar" ColumnName="ar" />
+          <ScalarProperty Name="kep" ColumnName="kep" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="enMenuSet">
+      <EntityTypeMapping TypeName="IsTypeOf(database.enMenu)">
+        <MappingFragment StoreEntitySet="enMenuSet">
+          <ScalarProperty Name="hetimenuID" ColumnName="hetimenuID" />
+          <ScalarProperty Name="foetel" ColumnName="foetel" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="enNetelekSet">
+      <EntityTypeMapping TypeName="IsTypeOf(database.enNetelek)">
+        <MappingFragment StoreEntitySet="enNetelekSet">
+          <ScalarProperty Name="napietelekID" ColumnName="napietelekID" />
+          <ScalarProperty Name="leves" ColumnName="leves" />
+          <ScalarProperty Name="foetel1" ColumnName="foetel1" />
+          <ScalarProperty Name="foetel2" ColumnName="foetel2" />
+          <ScalarProperty Name="foetelvega" ColumnName="foetelvega" />
+          <ScalarProperty Name="desszert" ColumnName="desszert" />
+          <ScalarProperty Name="datum" ColumnName="datum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="enFelhasznaloSet">
+      <EntityTypeMapping TypeName="IsTypeOf(database.enFelhasznalo)">
+        <MappingFragment StoreEntitySet="enFelhasznaloSet">
+          <ScalarProperty Name="felhasznaloID" ColumnName="felhasznaloID" />
+          <ScalarProperty Name="felhasznalonev" ColumnName="felhasznalonev" />
+          <ScalarProperty Name="jelszo" ColumnName="jelszo" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="vezeteknev" ColumnName="vezeteknev" />
+          <ScalarProperty Name="keresztnev" ColumnName="keresztnev" />
+          <ScalarProperty Name="iranyitoszam" ColumnName="iranyitoszam" />
+          <ScalarProperty Name="varos" ColumnName="varos" />
+          <ScalarProperty Name="cim" ColumnName="cim" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="enRendelesenHetimenu" TypeName="database.enRendelesenHetimenu" StoreEntitySet="enMenuSet">
+      <EndProperty Name="enKosar">
+        <ScalarProperty Name="rendelesID" ColumnName="enRendeles_rendelesID" />
+      </EndProperty>
+      <EndProperty Name="enMenu">
+        <ScalarProperty Name="hetimenuID" ColumnName="hetimenuID" />
+      </EndProperty>
+      <Condition ColumnName="enRendeles_rendelesID" IsNull="false" />
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="enRendelesenAlacarte" TypeName="database.enRendelesenAlacarte" StoreEntitySet="enAlacarteSet">
+      <EndProperty Name="enKosar">
+        <ScalarProperty Name="rendelesID" ColumnName="enRendeles_rendelesID" />
+      </EndProperty>
+      <EndProperty Name="enAlacarte">
+        <ScalarProperty Name="alacarteID" ColumnName="alacarteID" />
+      </EndProperty>
+      <Condition ColumnName="enRendeles_rendelesID" IsNull="false" />
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="enRendelesenFelhasznalo" TypeName="database.enRendelesenFelhasznalo" StoreEntitySet="enKosarSet">
+      <EndProperty Name="enFelhasznalo">
+        <ScalarProperty Name="felhasznaloID" ColumnName="enFelhasznalo_felhasznaloID" />
+      </EndProperty>
+      <EndProperty Name="enKosar">
+        <ScalarProperty Name="rendelesID" ColumnName="rendelesID" />
+      </EndProperty>
+      <Condition ColumnName="enFelhasznalo_felhasznaloID" IsNull="false" />
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="enAlacarteenEtelek" TypeName="database.enAlacarteenEtelek" StoreEntitySet="enAlacarteSet">
+      <EndProperty Name="enEtelek">
+        <ScalarProperty Name="etelekID" ColumnName="enEtelek_etelekID" />
+      </EndProperty>
+      <EndProperty Name="enAlacarte">
+        <ScalarProperty Name="alacarteID" ColumnName="alacarteID" />
+      </EndProperty>
+      <Condition ColumnName="enEtelek_etelekID" IsNull="false" />
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="enNetelekenHrendeles" TypeName="database.enNetelekenHrendeles" StoreEntitySet="enMenuSet">
+      <EndProperty Name="enNetelek">
+        <ScalarProperty Name="napietelekID" ColumnName="enNetelek_napietelekID" />
+      </EndProperty>
+      <EndProperty Name="enMenu">
+        <ScalarProperty Name="hetimenuID" ColumnName="hetimenuID" />
+      </EndProperty>
+      <Condition ColumnName="enNetelek_napietelekID" IsNull="false" />
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

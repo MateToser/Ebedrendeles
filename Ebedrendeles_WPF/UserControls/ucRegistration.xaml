@@ -1,0 +1,117 @@
+﻿<UserControl x:Class="Ebedrendeles_WPF.UserControls.ucRegistration"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Ebedrendeles_WPF.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <ScrollViewer>
+        <StackPanel
+        Orientation="Vertical">
+        <Grid
+        x:Name="registrationWindowGrid" HorizontalAlignment="Center">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="4*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="60"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="40"/>
+            </Grid.RowDefinitions>
+            <Label 
+            x:Name="loginLabel"
+            Content="Regisztáció"
+            FontSize="20"
+            HorizontalAlignment="Center" 
+            VerticalAlignment="Center"
+            Grid.ColumnSpan="2"/>
+            <Label 
+            x:Name="emailLabel" 
+            Content="E-mail: "
+            HorizontalAlignment="Right"
+            Margin="8"
+            Grid.Row="1"/>
+            <TextBox 
+            x:Name="emailTextBox_r"
+            Margin="4"
+            Grid.Row="1"
+            Grid.Column="1"
+            Width="150"/>
+            <Label 
+            x:Name="usernameLabel" 
+            Content="Felhasználónév: "
+            HorizontalAlignment="Right"
+            Margin="0,8"
+            Grid.Row="2"/>
+            <TextBox 
+            x:Name="usernameTextBox_r"
+            Margin="4"
+            Grid.Row="2"
+            Grid.Column="1"
+            Width="150"/>
+            <Label 
+            x:Name="passwordLabel" 
+            Content="Jelszó: "
+            HorizontalAlignment="Right"
+            Margin="8"
+            Grid.Row="3"/>
+            <PasswordBox 
+            x:Name="passwordTextBox_r"
+            Margin="4"
+            Grid.Row="3"
+            Grid.Column="1"
+            Width="150"/>
+            <Label 
+            x:Name="passwordLabel2" 
+            Content="Jelszó ismét: "
+            HorizontalAlignment="Right"
+            Margin="8"
+            Grid.Row="4"/>
+            <PasswordBox 
+            x:Name="passwordTextBox_r2"
+            Margin="4"
+            Grid.Row="4"
+            Grid.Column="1"
+            Width="150"/>
+            <Label 
+            x:Name="nameLabel" 
+            Content="Teljes név: "
+            HorizontalAlignment="Right"
+            Margin="8"
+            Grid.Row="5"/>
+            <TextBox 
+            x:Name="nameTextBox_r"
+            Margin="4"
+            Grid.Row="5"
+            Grid.Column="1"
+            Width="150"/>
+            <Label 
+            x:Name="addressLabel" 
+            Content="Cím: "
+            HorizontalAlignment="Right"
+            Margin="8"
+            Grid.Row="6"/>
+            <TextBox 
+            x:Name="addressTextBox_r"
+            Margin="4"
+            Grid.Row="6"
+            Grid.Column="1"
+            Width="150"/>
+        </Grid>
+        <Button 
+            x:Name="registrationButton" 
+            Content="Regisztráció"
+            Width="68"
+            Margin="12"
+            Click="registrationButton_Click"
+            />
+
+    </StackPanel>
+    </ScrollViewer>
+</UserControl>

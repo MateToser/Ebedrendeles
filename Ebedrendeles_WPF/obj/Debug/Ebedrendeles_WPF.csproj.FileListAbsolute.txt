@@ -1,0 +1,202 @@
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\bin\Debug\Ebedrendeles_WPF.exe.config
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\bin\Debug\Ebedrendeles_WPF.exe
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\bin\Debug\Ebedrendeles_WPF.pdb
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.csprojResolveAssemblyReference.cache
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\MainWindow.g.cs
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucAlaC.g.cs
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucBill.g.cs
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucLogin.g.cs
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucMenu.g.cs
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucMenuFood.g.cs
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucOptions.g.cs
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucOrders.g.cs
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucRegistration.g.cs
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucStatistic.g.cs
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucUsers.g.cs
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\App.g.cs
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF_MarkupCompile.cache
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF_MarkupCompile.lref
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\MainWindow.baml
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucAlaC.baml
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucBill.baml
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucLogin.baml
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucMenu.baml
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucMenuFood.baml
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucOptions.baml
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucOrders.baml
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucRegistration.baml
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucStatistic.baml
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucUsers.baml
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.g.resources
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.Properties.Resources.resources
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.csproj.GenerateResource.Cache
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.exe
+c:\users\fakei\documents\visual studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.pdb
+C:\Users\Attila\Desktop\prj\Ebedrendeles\Ebedrendeles_WPF\bin\Debug\Ebedrendeles_WPF.exe.config
+C:\Users\Attila\Desktop\prj\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.exe
+C:\Users\Attila\Desktop\prj\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.pdb
+C:\Users\Attila\Desktop\prj\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.csprojResolveAssemblyReference.cache
+C:\Users\Attila\Desktop\prj\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Attila\Desktop\prj\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucAlaC.g.cs
+C:\Users\Attila\Desktop\prj\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucBill.g.cs
+C:\Users\Attila\Desktop\prj\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucLogin.g.cs
+C:\Users\Attila\Desktop\prj\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucMenu.g.cs
+C:\Users\Attila\Desktop\prj\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucMenuFood.g.cs
+C:\Users\Attila\Desktop\prj\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucOptions.g.cs
+C:\Users\Attila\Desktop\prj\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucOrders.g.cs
+C:\Users\Attila\Desktop\prj\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucRegistration.g.cs
+C:\Users\Attila\Desktop\prj\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucStatistic.g.cs
+C:\Users\Attila\Desktop\prj\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucUsers.g.cs
+C:\Users\Attila\Desktop\prj\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\App.g.cs
+C:\Users\Attila\Desktop\prj\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF_MarkupCompile.cache
+C:\Users\Attila\Desktop\prj\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF_MarkupCompile.lref
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\bin\Debug\Ebedrendeles_WPF.exe.config
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.csprojResolveAssemblyReference.cache
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucAlaC.g.cs
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucLogin.g.cs
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucMenu.g.cs
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucMenuFood.g.cs
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucOptions.g.cs
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucOrders.g.cs
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucRegistration.g.cs
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucStatistic.g.cs
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucUsers.g.cs
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\App.g.cs
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF_MarkupCompile.cache
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF_MarkupCompile.lref
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\bin\Debug\Ebedrendeles_WPF.exe
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\bin\Debug\Ebedrendeles_WPF.pdb
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\MainWindow.baml
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucAlaC.baml
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucLogin.baml
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucMenu.baml
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucMenuFood.baml
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucOptions.baml
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucOrders.baml
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucRegistration.baml
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucStatistic.baml
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucUsers.baml
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.g.resources
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.Properties.Resources.resources
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.csproj.GenerateResource.Cache
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.exe
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.pdb
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\bin\Debug\Ebedrendeles_adatbazis.dll
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\bin\Debug\Ebedrendeles_adatbazis.pdb
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\bin\Debug\EntityFramework.xml
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucBasket.g.cs
+C:\Users\tgabo\OneDrive\Documents\Visual Studio 2015\Projects\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucBasket.baml
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\bin\Debug\Ebedrendeles_WPF.exe.config
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.exe
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.pdb
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\bin\Debug\Ebedrendeles_WPF.exe
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\bin\Debug\Ebedrendeles_WPF.pdb
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\bin\Debug\Ebedrendeles_adatbazis.dll
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\bin\Debug\Ebedrendeles_adatbazis.pdb
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\bin\Debug\EntityFramework.xml
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.csprojResolveAssemblyReference.cache
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucAlaC.g.cs
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucBasket.g.cs
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucLogin.g.cs
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucMenu.g.cs
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucMenuFood.g.cs
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucOptions.g.cs
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucOrders.g.cs
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucRegistration.g.cs
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucStatistic.g.cs
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucUsers.g.cs
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\App.g.cs
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF_MarkupCompile.cache
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF_MarkupCompile.lref
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\MainWindow.baml
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucAlaC.baml
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucBasket.baml
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucLogin.baml
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucMenu.baml
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucMenuFood.baml
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucOptions.baml
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucOrders.baml
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucRegistration.baml
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucStatistic.baml
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucUsers.baml
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.g.resources
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.Properties.Resources.resources
+C:\Users\Attila\Desktop\hed\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.csproj.GenerateResource.Cache
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\bin\Debug\Ebedrendeles_WPF.exe.config
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.exe
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.pdb
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\bin\Debug\Ebedrendeles_WPF.exe
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\bin\Debug\Ebedrendeles_WPF.pdb
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\bin\Debug\Ebedrendeles_adatbazis.dll
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\bin\Debug\Ebedrendeles_adatbazis.pdb
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\bin\Debug\EntityFramework.xml
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.csprojResolveAssemblyReference.cache
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucAlaC.g.cs
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucBasket.g.cs
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucLogin.g.cs
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucMenu.g.cs
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucMenuFood.g.cs
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucOptions.g.cs
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucOrders.g.cs
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucRegistration.g.cs
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucStatistic.g.cs
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucUsers.g.cs
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\App.g.cs
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF_MarkupCompile.cache
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF_MarkupCompile.lref
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\MainWindow.baml
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucAlaC.baml
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucBasket.baml
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucLogin.baml
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucMenu.baml
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucMenuFood.baml
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucOptions.baml
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucOrders.baml
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucRegistration.baml
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucStatistic.baml
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucUsers.baml
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.g.resources
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.Properties.Resources.resources
+C:\Users\fakei\Desktop\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.csproj.GenerateResource.Cache
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\bin\Debug\Ebedrendeles_WPF.exe.config
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\bin\Debug\Ebedrendeles_WPF.exe
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\bin\Debug\Ebedrendeles_WPF.pdb
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\bin\Debug\Ebedrendeles_adatbazis.dll
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\bin\Debug\Ebedrendeles_adatbazis.pdb
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\bin\Debug\Ebedrendeles_adatbazis.dll.config
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\bin\Debug\EntityFramework.xml
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.csprojResolveAssemblyReference.cache
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucAlaC.g.cs
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucBasket.g.cs
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucLogin.g.cs
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucMenu.g.cs
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucMenuFood.g.cs
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucOptions.g.cs
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucOrders.g.cs
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucRegistration.g.cs
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucStatistic.g.cs
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucUsers.g.cs
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\App.g.cs
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF_MarkupCompile.cache
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF_MarkupCompile.lref
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\MainWindow.baml
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucAlaC.baml
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucBasket.baml
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucLogin.baml
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucMenu.baml
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucMenuFood.baml
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucOptions.baml
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucOrders.baml
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucRegistration.baml
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucStatistic.baml
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\UserControls\ucUsers.baml
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.g.resources
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.Properties.Resources.resources
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.csproj.GenerateResource.Cache
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.csproj.CoreCompileInputs.cache
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.exe
+C:\Users\mate\Desktop\Beadando\Ebedrendeles\Ebedrendeles\Ebedrendeles_WPF\obj\Debug\Ebedrendeles_WPF.pdb

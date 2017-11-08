@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="database.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="databaseStoreContainer">
+    <EntitySet Name="enKosarSet" EntityType="database.Store.enKosarSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="enAlacarteSet" EntityType="database.Store.enAlacarteSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="enEtelekSet" EntityType="database.Store.enEtelekSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="enMenuSet" EntityType="database.Store.enMenuSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="enNetelekSet" EntityType="database.Store.enNetelekSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="enFelhasznaloSet" EntityType="database.Store.enFelhasznaloSet" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="enRendelesenHetimenu" Association="database.Store.enRendelesenHetimenu">
+      <End Role="enKosar" EntitySet="enKosarSet" />
+      <End Role="enMenu" EntitySet="enMenuSet" />
+    </AssociationSet>
+    <AssociationSet Name="enRendelesenAlacarte" Association="database.Store.enRendelesenAlacarte">
+      <End Role="enKosar" EntitySet="enKosarSet" />
+      <End Role="enAlacarte" EntitySet="enAlacarteSet" />
+    </AssociationSet>
+    <AssociationSet Name="enRendelesenFelhasznalo" Association="database.Store.enRendelesenFelhasznalo">
+      <End Role="enKosar" EntitySet="enKosarSet" />
+      <End Role="enFelhasznalo" EntitySet="enFelhasznaloSet" />
+    </AssociationSet>
+    <AssociationSet Name="enAlacarteenEtelek" Association="database.Store.enAlacarteenEtelek">
+      <End Role="enAlacarte" EntitySet="enAlacarteSet" />
+      <End Role="enEtelek" EntitySet="enEtelekSet" />
+    </AssociationSet>
+    <AssociationSet Name="enNetelekenHrendeles" Association="database.Store.enNetelekenHrendeles">
+      <End Role="enNetelek" EntitySet="enNetelekSet" />
+      <End Role="enMenu" EntitySet="enMenuSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="enKosarSet">
+    <Key>
+      <PropertyRef Name="rendelesID" />
+    </Key>
+    <Property Name="rendelesID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="szamla" Type="int" Nullable="false" />
+    <Property Name="rendelesido" Type="datetime" Nullable="false" />
+    <Property Name="enFelhasznalo_felhasznaloID" Type="int" Nullable="true" />
+  </EntityType>
+  <EntityType Name="enAlacarteSet">
+    <Key>
+      <PropertyRef Name="alacarteID" />
+    </Key>
+    <Property Name="alacarteID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="datum" Type="datetime" Nullable="false" />
+    <Property Name="enRendeles_rendelesID" Type="int" Nullable="true" />
+    <Property Name="enEtelek_etelekID" Type="int" Nullable="true" />
+  </EntityType>
+  <EntityType Name="enEtelekSet">
+    <Key>
+      <PropertyRef Name="etelekID" />
+    </Key>
+    <Property Name="etelekID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="kategoria" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="nev" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="ar" Type="int" Nullable="false" />
+    <Property Name="kep" Type="varbinary(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="enMenuSet">
+    <Key>
+      <PropertyRef Name="hetimenuID" />
+    </Key>
+    <Property Name="hetimenuID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="foetel" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="enRendeles_rendelesID" Type="int" Nullable="true" />
+    <Property Name="enNetelek_napietelekID" Type="int" Nullable="true" />
+  </EntityType>
+  <EntityType Name="enNetelekSet">
+    <Key>
+      <PropertyRef Name="napietelekID" />
+    </Key>
+    <Property Name="napietelekID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="leves" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="foetel1" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="foetel2" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="foetelvega" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="desszert" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="datum" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="enFelhasznaloSet">
+    <Key>
+      <PropertyRef Name="felhasznaloID" />
+    </Key>
+    <Property Name="felhasznaloID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="felhasznalonev" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="jelszo" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="email" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="vezeteknev" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="keresztnev" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="iranyitoszam" Type="int" Nullable="false" />
+    <Property Name="varos" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="cim" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <Association Name="enRendelesenHetimenu">
+    <End Role="enKosar" Type="database.Store.enKosarSet" Multiplicity="0..1" />
+    <End Role="enMenu" Type="database.Store.enMenuSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="enKosar">
+        <PropertyRef Name="rendelesID" />
+      </Principal>
+      <Dependent Role="enMenu">
+        <PropertyRef Name="enRendeles_rendelesID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="enRendelesenAlacarte">
+    <End Role="enKosar" Type="database.Store.enKosarSet" Multiplicity="0..1" />
+    <End Role="enAlacarte" Type="database.Store.enAlacarteSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="enKosar">
+        <PropertyRef Name="rendelesID" />
+      </Principal>
+      <Dependent Role="enAlacarte">
+        <PropertyRef Name="enRendeles_rendelesID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="enRendelesenFelhasznalo">
+    <End Role="enKosar" Type="database.Store.enKosarSet" Multiplicity="*" />
+    <End Role="enFelhasznalo" Type="database.Store.enFelhasznaloSet" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="enFelhasznalo">
+        <PropertyRef Name="felhasznaloID" />
+      </Principal>
+      <Dependent Role="enKosar">
+        <PropertyRef Name="enFelhasznalo_felhasznaloID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="enAlacarteenEtelek">
+    <End Role="enAlacarte" Type="database.Store.enAlacarteSet" Multiplicity="*" />
+    <End Role="enEtelek" Type="database.Store.enEtelekSet" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="enEtelek">
+        <PropertyRef Name="etelekID" />
+      </Principal>
+      <Dependent Role="enAlacarte">
+        <PropertyRef Name="enEtelek_etelekID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="enNetelekenHrendeles">
+    <End Role="enNetelek" Type="database.Store.enNetelekSet" Multiplicity="0..1" />
+    <End Role="enMenu" Type="database.Store.enMenuSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="enNetelek">
+        <PropertyRef Name="napietelekID" />
+      </Principal>
+      <Dependent Role="enMenu">
+        <PropertyRef Name="enNetelek_napietelekID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
